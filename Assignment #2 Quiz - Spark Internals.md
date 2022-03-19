@@ -19,3 +19,5 @@ Question 4
 How many tasks were in the last stage of the last job?
 
 2
+How large is our fireCalls dataset in memory? Input just the numeric value (e.g. 51.2)
+Puedes resolver esta pregunta por favor 
